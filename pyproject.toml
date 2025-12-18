@@ -1,4 +1,6 @@
 [project]
+name = party
+version = 0.1.0
 
 [build-system]
 requires = ["pbr>=5.7.0", "setuptools>=36.6.0", "wheel"]
